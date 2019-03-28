@@ -136,8 +136,9 @@ filename | sha512 hash
 
 # Kubernetes v1.14 Release Notes
 
-## 1.14 What’s New
+[Documentation](https://docs.k8s.io)
 
+## 1.14 What’s New
 
 Support for Windows Nodes is Graduating to Stable ([#116](https://github.com/kubernetes/enhancements/issues/116) )
 
