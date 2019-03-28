@@ -138,6 +138,7 @@ filename | sha512 hash
 
 ## 1.14 What’s New
 
+
 Support for Windows Nodes is Graduating to Stable ([#116](https://github.com/kubernetes/enhancements/issues/116) )
 
 - Support for Windows Server 2019 for worker nodes and containers
