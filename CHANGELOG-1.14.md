@@ -8,7 +8,7 @@
   - [What's New](#whats-new)
   - [Known Issues](#known-issues)
   - [Urgent Upgrade Notes](#urgent-upgrade-notes)
-    - [(No, really, you MUST do this before you upgrade)](#no-really-you-must-do-this-before-you-upgrade)
+    - [(No, really, you MUST do this before you upgrade)](#no-really-you-must-read-this-before-you-upgrade)
   - [Deprecations](#deprecations)
   - [Removed and deprecated metrics](#removed-and-deprecated-metrics)
     - [Removed metrics](#removed-metrics)
