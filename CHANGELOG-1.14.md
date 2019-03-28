@@ -4,7 +4,7 @@
     - [Client Binaries](#client-binaries)
     - [Server Binaries](#server-binaries)
     - [Node Binaries](#node-binaries)
-- [Kubernetes v1.14 Release Notes](#kubernetes-v114-release-notes)
+- [Kubernetes v1.14 Release Notes](#kubernetes-v1.14-release-notes)
   - [What's New](#114-what's-new)
   - [Known Issues](#known-issues)
   - [Urgent Upgrade Notes](#urgent-upgrade-notes)
