@@ -5,10 +5,10 @@
     - [Server Binaries](#server-binaries)
     - [Node Binaries](#node-binaries)
 - [Kubernetes v1.14 Release Notes](#kubernetes-v114-release-notes)
-  - [1.14 What’s New](#114-what’s-new)
+  - [What's New](#whats-new)
   - [Known Issues](#known-issues)
   - [Urgent Upgrade Notes](#urgent-upgrade-notes)
-    - [(No, really, you MUST do this before you upgrade)](#no-really-you-must-do-this-before-you-upgrade)
+    - [(No, really, you MUST do this before you upgrade)](#no-really-you-must-read-this-before-you-upgrade)
   - [Deprecations](#deprecations)
   - [Removed and deprecated metrics](#removed-and-deprecated-metrics)
     - [Removed metrics](#removed-metrics)
@@ -136,7 +136,7 @@ filename | sha512 hash
 
 # Kubernetes v1.14 Release Notes
 
-## 1.14 What’s New
+## What's New
 
 Support for Windows Nodes is Graduating to Stable ([#116](https://github.com/kubernetes/enhancements/issues/116) )
 
